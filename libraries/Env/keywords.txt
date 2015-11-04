@@ -1,0 +1,13 @@
+# Syntax Coloring Map for Env
+# Class
+Env	KEYWORD1
+
+# Methods and Functions 
+
+clear		KEYWORD2
+get     	KEYWORD2
+set             KEYWORD2
+unset   	KEYWORD2
+is_valid_env	KEYWORD2
+bytes_used	KEYWORD2
+size		KEYWORD2
