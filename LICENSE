@@ -4,3 +4,9 @@ If you figure out how to make some money from this code, buy me a beer.
 
 If you figure out how to make a lot of money from this code, send me
 some. Or don't.
+
+Some code here contains code from various places. I try to give proper attribution.
+If I've missed something, please let me know.
+
+* I2CHuzzah contains code for the DigiSpark (see www.digistump.com).
+* WiFi-related stuff contain code that comes with the ESP8266 distribution.
