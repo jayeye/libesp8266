@@ -1,0 +1,48 @@
+#  editor temporary and backup files
+*.bak
+/#*#
+*~
+
+# archives, compressed files, distribution files, detc.
+*.7z
+*.bz2
+*.cpio
+*.gz
+*.zip
+*.rar
+*.tar
+*.tbz
+*.tgz
+*.dmg
+*.egg
+*.egg-info
+
+# libraries, executables, etc.
+
+*.class
+*.com
+*.dll
+*.exe
+*.jar
+*.lib
+*.o
+*.par
+*.pex
+*.pyc
+*.so
+a.out
+
+# other generated files
+*.gcode
+*.hprof
+*.log
+*.out
+*.stl
+*.swp
+*.tmp
+
+*?test
+
+# Weird directories
+.DS_Store
+bin
